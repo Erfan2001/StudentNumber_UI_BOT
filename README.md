@@ -1,6 +1,9 @@
 # StudentNumber_UI_BOT
 
-Simple telegram bot that shows name of student by giving each student number
-Also, crawl student's number from LMS website
+## Project description:
+
+This is a basic Telegram bot designed to retrieve and display student names based on their respective student numbers. Additionally, it is capable of scraping student numbers from the Learning Management System (LMS) website.
+
+Implemented by Erfan Nourbakhsh
 
 Spring 2022
